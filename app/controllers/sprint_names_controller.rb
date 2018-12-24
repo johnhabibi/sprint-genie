@@ -1,5 +1,3 @@
 class SprintNamesController < ApplicationController
-  def index
-
-  end
+  def index; end
 end
