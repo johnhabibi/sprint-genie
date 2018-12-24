@@ -1,0 +1,2 @@
+class SprintNamesController < ApplicationController
+end
